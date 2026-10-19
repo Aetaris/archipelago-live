@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:20:47.909Z
+Report generated: 2026-10-19T12:57:53.418Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 52 / 1782
-Received items: 52
+Checks: 53 / 1782
+Received items: 53
 
 CURRENT INVENTORY
 -----------------
@@ -28,6 +28,7 @@ CURRENT INVENTORY
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
 1x Goliath
+1x Havoc
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 4x Increased Building Construction Speed
@@ -99,6 +100,7 @@ ITEM RECEIPT HISTORY
 50. Additional Starting Vespene
 51. Additional Maximum Supply
 52. Mutalisk
+53. Havoc
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -154,5 +156,6 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): Victory Cache (1)
 - The Growing Shadow (Protoss): Victory Cache (2)
 - The Growing Shadow (Protoss): West Pylon
+- Zero Hour (Terran): First Group Rescued
 
 END OF REPORT
