@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T10:05:01.735Z
+Report generated: 2026-10-19T10:05:47.008Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 30 / 1782
-Received items: 30
+Checks: 31 / 1782
+Received items: 31
 
 CURRENT INVENTORY
 -----------------
@@ -24,6 +24,7 @@ CURRENT INVENTORY
 1x Disruptor Dispersion (Immortal/Annihilator)
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
+1x Immobilization Wave (Kerrigan Ability)
 2x Increased Building Construction Speed
 3x Increased Shield Regeneration
 1x Organic Carapace (Swarm Queen)
@@ -66,9 +67,11 @@ ITEM RECEIPT HISTORY
 28. Concealment (Widow Mine)
 29. All-Terrain Treads (Siege Tank)
 30. Advanced Targeting Optics (Banshee)
+31. Immobilization Wave (Kerrigan Ability)
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
 - Evacuation (Protoss): Secret Resource Stash
