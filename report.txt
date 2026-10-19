@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:16:47.418Z
+Report generated: 2026-10-19T09:17:52.162Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 14 / 1782
-Received items: 14
+Checks: 15 / 1782
+Received items: 15
 
 CURRENT INVENTORY
 -----------------
@@ -19,6 +19,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Increased Building Construction Speed
 2x Increased Shield Regeneration
+1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
 1x Tactical Jump (Hercules)
@@ -40,9 +41,11 @@ ITEM RECEIPT HISTORY
 12. Additional Maximum Supply
 13. Additional Starting Supply
 14. Disruptor Dispersion (Immortal/Annihilator)
+15. Organic Carapace (Swarm Queen)
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Lab Rat (Protoss): Gas Turrets
 - Lab Rat (Protoss): Gather Minerals
 - Lab Rat (Protoss): Nexus
 - Lab Rat (Protoss): Pylon
