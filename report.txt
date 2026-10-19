@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:26:49.442Z
+Report generated: 2026-10-19T09:30:51.194Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 21 / 1782
-Received items: 21
+Checks: 22 / 1782
+Received items: 22
 
 CURRENT INVENTORY
 -----------------
@@ -22,7 +22,7 @@ CURRENT INVENTORY
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
 1x Increased Building Construction Speed
-2x Increased Shield Regeneration
+3x Increased Shield Regeneration
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
@@ -53,6 +53,7 @@ ITEM RECEIPT HISTORY
 19. Additional Starting Minerals
 20. Chronoclysm (Pulsar)
 21. Death Heads
+22. Increased Shield Regeneration
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -77,5 +78,6 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
 - Smash and Grab (Terran): First Relic
+- Smash and Grab (Terran): Third Relic
 
 END OF REPORT
