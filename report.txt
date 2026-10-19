@@ -2,20 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T13:10:54.438Z
+Report generated: 2026-10-19T13:11:55.705Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 62 / 1782
-Received items: 62
+Checks: 65 / 1782
+Received items: 65
 
 CURRENT INVENTORY
 -----------------
-5x Additional Maximum Supply
+6x Additional Maximum Supply
 6x Additional Starting Minerals
 5x Additional Starting Supply
-5x Additional Starting Vespene
+6x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
@@ -36,6 +36,7 @@ CURRENT INVENTORY
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Mutalisk
+1x Nano Projector (Medic)
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Stimpack (Marine)
@@ -115,6 +116,9 @@ ITEM RECEIPT HISTORY
 60. Transcendence (Archon)
 61. Increased Shield Regeneration
 62. Internal Tech Module (Siege Tank)
+63. Nano Projector (Medic)
+64. Additional Starting Vespene
+65. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -180,5 +184,8 @@ COMPLETED LOCATION CHECKS
 - Zero Hour (Terran): Second Hatchery
 - Zero Hour (Terran): Third Group Rescued
 - Zero Hour (Terran): Third Hatchery
+- Zero Hour (Terran): Victory
+- Zero Hour (Terran): Victory Cache (1)
+- Zero Hour (Terran): Victory Cache (2)
 
 END OF REPORT
