@@ -2,16 +2,17 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:10:51.315Z
+Report generated: 2026-10-19T09:11:46.428Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 11 / 1782
-Received items: 11
+Checks: 12 / 1782
+Received items: 12
 
 CURRENT INVENTORY
 -----------------
+1x Additional Maximum Supply
 2x Additional Starting Supply
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
@@ -35,9 +36,11 @@ ITEM RECEIPT HISTORY
 9. Increased Shield Regeneration
 10. Increased Shield Regeneration
 11. Goliath
+12. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Lab Rat (Protoss): Gather Minerals
 - Lab Rat (Protoss): Nexus
 - Lab Rat (Zerg): East Zergling Group
 - Lab Rat (Zerg): Gas Turrets
