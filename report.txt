@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T10:00:51.709Z
+Report generated: 2026-10-19T10:01:56.090Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 27 / 1782
-Received items: 27
+Checks: 28 / 1782
+Received items: 28
 
 CURRENT INVENTORY
 -----------------
@@ -16,6 +16,7 @@ CURRENT INVENTORY
 3x Additional Starting Minerals
 3x Additional Starting Supply
 1x Chronoclysm (Pulsar)
+1x Concealment (Widow Mine)
 1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
@@ -60,9 +61,11 @@ ITEM RECEIPT HISTORY
 25. Additional Maximum Supply
 26. Additional Starting Minerals
 27. Twin-Linked Flamethrower (Hellion)
+28. Concealment (Widow Mine)
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Evacuation (Protoss): Reach Hanson
 - Evacuation (Protoss): Secret Resource Stash
 - Lab Rat (Protoss): East Zealot Group
 - Lab Rat (Protoss): Gas Turrets
