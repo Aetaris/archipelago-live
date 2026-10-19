@@ -2,18 +2,18 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:02:48.464Z
+Report generated: 2026-10-19T11:03:46.870Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 38 / 1782
-Received items: 38
+Checks: 39 / 1782
+Received items: 39
 
 CURRENT INVENTORY
 -----------------
 3x Additional Maximum Supply
-3x Additional Starting Minerals
+4x Additional Starting Minerals
 4x Additional Starting Supply
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -80,6 +80,7 @@ ITEM RECEIPT HISTORY
 36. Progressive Zerg Melee Attack
 37. Caladrius
 38. Additional Starting Supply
+39. Additional Starting Minerals
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -120,6 +121,7 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): Close Pylon
 - The Growing Shadow (Protoss): East Pylon
 - The Growing Shadow (Protoss): Nexus
+- The Growing Shadow (Protoss): Templar Base
 - The Growing Shadow (Protoss): West Pylon
 
 END OF REPORT
