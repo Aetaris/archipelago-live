@@ -2,19 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:03:46.870Z
+Report generated: 2026-10-19T11:04:47.151Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 39 / 1782
-Received items: 39
+Checks: 42 / 1782
+Received items: 42
 
 CURRENT INVENTORY
 -----------------
 3x Additional Maximum Supply
 4x Additional Starting Minerals
 4x Additional Starting Supply
+1x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
@@ -28,12 +29,13 @@ CURRENT INVENTORY
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
-3x Increased Building Construction Speed
+4x Increased Building Construction Speed
 3x Increased Shield Regeneration
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
 1x Progressive Zerg Melee Attack
+1x Quatro (Protoss)
 1x Resource Efficiency (Arbiter)
 1x Sensor Array (Observer)
 1x Tactical Jump (Hercules)
@@ -81,6 +83,9 @@ ITEM RECEIPT HISTORY
 37. Caladrius
 38. Additional Starting Supply
 39. Additional Starting Minerals
+40. Additional Starting Vespene
+41. Increased Building Construction Speed
+42. Quatro (Protoss)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -122,6 +127,9 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): East Pylon
 - The Growing Shadow (Protoss): Nexus
 - The Growing Shadow (Protoss): Templar Base
+- The Growing Shadow (Protoss): Victory
+- The Growing Shadow (Protoss): Victory Cache (1)
+- The Growing Shadow (Protoss): Victory Cache (2)
 - The Growing Shadow (Protoss): West Pylon
 
 END OF REPORT
