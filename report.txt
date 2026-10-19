@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T12:57:53.418Z
+Report generated: 2026-10-19T13:00:47.782Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 53 / 1782
-Received items: 53
+Checks: 54 / 1782
+Received items: 54
 
 CURRENT INVENTORY
 -----------------
@@ -44,6 +44,7 @@ CURRENT INVENTORY
 1x Sensor Array (Observer)
 1x Tactical Jump (Hercules)
 1x Twin-Linked Flamethrower (Hellion)
+1x Vicious Glaive (Mutalisk)
 1x Zergling
 
 ITEM RECEIPT HISTORY
@@ -101,6 +102,7 @@ ITEM RECEIPT HISTORY
 51. Additional Maximum Supply
 52. Mutalisk
 53. Havoc
+54. Vicious Glaive (Mutalisk)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -157,5 +159,6 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): Victory Cache (2)
 - The Growing Shadow (Protoss): West Pylon
 - Zero Hour (Terran): First Group Rescued
+- Zero Hour (Terran): Second Group Rescued
 
 END OF REPORT
