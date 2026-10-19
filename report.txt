@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:12:47.009Z
+Report generated: 2026-10-19T11:13:56.078Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 44 / 1782
-Received items: 44
+Checks: 45 / 1782
+Received items: 45
 
 CURRENT INVENTORY
 -----------------
@@ -34,6 +34,7 @@ CURRENT INVENTORY
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
+1x Progressive Zerg Flyer Attack
 1x Progressive Zerg Melee Attack
 1x Quatro (Protoss)
 1x Resource Efficiency (Arbiter)
@@ -88,6 +89,7 @@ ITEM RECEIPT HISTORY
 42. Quatro (Protoss)
 43. Additional Starting Vespene
 44. Additional Starting Vespene
+45. Progressive Zerg Flyer Attack
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -108,6 +110,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Protoss): West Zealot Group
 - Lab Rat (Terran): Command Center
 - Lab Rat (Terran): Gather Minerals
+- Lab Rat (Terran): Supply Depot
 - Lab Rat (Zerg): East Zergling Group
 - Lab Rat (Zerg): Gas Turrets
 - Lab Rat (Zerg): Gather Minerals
