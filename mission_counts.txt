@@ -1,0 +1,65 @@
+ARCHIPELAGO MISSION CHECK COUNTS
+===============================
+Only location counts; no items or reward assignments.
+Total locations parsed: 1782
+Unique missions: 55
+Full seed location entries parsed: 1782
+The Host: Terran variant excluded from its representative count.
+
+A Sinister Turn | 12
+All-In | 8
+Amon's Reach | 10
+Brothers in Arms | 8
+Cutthroat | 10
+Dark Whispers | 8
+Death From Above | 8
+Domination | 13
+Echoes of the Future | 10
+Engine of Destruction | 12
+Evacuation | 11
+Fire in the Sky | 15
+Forbidden Weapon | 8
+Gates of Hell | 14
+Hand of Darkness | 12
+Harbinger of Oblivion | 11
+Harvest of Screams | 12
+Haven's Fall | 14
+In Utter Darkness | 9
+Infested | 14
+Into the Void | 8
+Lab Rat | 10
+Last Stand | 8
+Maw of the Void | 16
+Media Blitz | 12
+Old Soldiers | 10
+Outbreak | 10
+Phantoms of the Void | 12
+Planetfall | 15
+Purification | 16
+Rak'Shir | 8
+Rendezvous | 7
+Safe Haven | 9
+Salvation | 8
+Shatter the Sky | 11
+Shoot the Messenger | 15
+Sky Shield | 13
+Smash and Grab | 10
+Steps of the Rite | 10
+Supernova | 10
+Templar's Charge | 8
+Temple of Unification | 11
+The Crucible | 9
+The Dig | 14
+The Great Train Robbery | 17
+The Growing Shadow | 8
+The Host | 11
+The Moebius Factor | 12
+The Outlaws | 7
+The Reckoning | 7
+The Spear of Adun | 10
+Unsealing the Past | 10
+Waking the Ancient | 12
+Welcome to the Jungle | 14
+Zero Hour | 13
+
+END OF SAFE COUNTS
