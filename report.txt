@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:20:00.463Z
+Report generated: 2026-10-19T09:26:49.442Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 20 / 1782
-Received items: 20
+Checks: 21 / 1782
+Received items: 21
 
 CURRENT INVENTORY
 -----------------
@@ -16,6 +16,7 @@ CURRENT INVENTORY
 1x Additional Starting Minerals
 3x Additional Starting Supply
 1x Chronoclysm (Pulsar)
+1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
 1x Goliath
@@ -51,6 +52,7 @@ ITEM RECEIPT HISTORY
 18. Devil Dogs
 19. Additional Starting Minerals
 20. Chronoclysm (Pulsar)
+21. Death Heads
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -74,5 +76,6 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (1)
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
+- Smash and Grab (Terran): First Relic
 
 END OF REPORT
