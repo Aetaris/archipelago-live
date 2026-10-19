@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T10:27:46.632Z
+Report generated: 2026-10-19T10:28:50.722Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 34 / 1782
-Received items: 34
+Checks: 37 / 1782
+Received items: 37
 
 CURRENT INVENTORY
 -----------------
@@ -18,6 +18,7 @@ CURRENT INVENTORY
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
+1x Caladrius
 1x Chronoclysm (Pulsar)
 1x Concealment (Widow Mine)
 1x Dark Templar
@@ -27,11 +28,12 @@ CURRENT INVENTORY
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
-2x Increased Building Construction Speed
+3x Increased Building Construction Speed
 3x Increased Shield Regeneration
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
+1x Progressive Zerg Melee Attack
 1x Resource Efficiency (Arbiter)
 1x Sensor Array (Observer)
 1x Tactical Jump (Hercules)
@@ -74,6 +76,9 @@ ITEM RECEIPT HISTORY
 32. Dark Templar
 33. Resource Efficiency (Arbiter)
 34. Banshee
+35. Increased Building Construction Speed
+36. Progressive Zerg Melee Attack
+37. Caladrius
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -108,6 +113,9 @@ COMPLETED LOCATION CHECKS
 - Smash and Grab (Terran): Second Forcefield Area Busted
 - Smash and Grab (Terran): Second Relic
 - Smash and Grab (Terran): Third Relic
+- Smash and Grab (Terran): Victory
+- Smash and Grab (Terran): Victory Cache (1)
+- Smash and Grab (Terran): Victory Cache (2)
 - The Growing Shadow (Protoss): Close Pylon
 - The Growing Shadow (Protoss): Nexus
 - The Growing Shadow (Protoss): West Pylon
