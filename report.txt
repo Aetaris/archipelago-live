@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T10:05:47.008Z
+Report generated: 2026-10-19T10:22:53.754Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 31 / 1782
-Received items: 31
+Checks: 32 / 1782
+Received items: 32
 
 CURRENT INVENTORY
 -----------------
@@ -19,6 +19,7 @@ CURRENT INVENTORY
 1x All-Terrain Treads (Siege Tank)
 1x Chronoclysm (Pulsar)
 1x Concealment (Widow Mine)
+1x Dark Templar
 1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
@@ -68,6 +69,7 @@ ITEM RECEIPT HISTORY
 29. All-Terrain Treads (Siege Tank)
 30. Advanced Targeting Optics (Banshee)
 31. Immobilization Wave (Kerrigan Ability)
+32. Dark Templar
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -96,6 +98,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (1)
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
+- Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Second Relic
 - Smash and Grab (Terran): Third Relic
