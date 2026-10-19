@@ -2,20 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:19:54.380Z
+Report generated: 2026-10-19T11:20:47.909Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 49 / 1782
-Received items: 49
+Checks: 52 / 1782
+Received items: 52
 
 CURRENT INVENTORY
 -----------------
-4x Additional Maximum Supply
+5x Additional Maximum Supply
 5x Additional Starting Minerals
 4x Additional Starting Supply
-4x Additional Starting Vespene
+5x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
@@ -32,6 +32,7 @@ CURRENT INVENTORY
 1x Immobilization Wave (Kerrigan Ability)
 4x Increased Building Construction Speed
 3x Increased Shield Regeneration
+1x Mutalisk
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Terran Infantry Weapon
@@ -95,6 +96,9 @@ ITEM RECEIPT HISTORY
 47. Additional Starting Vespene
 48. Additional Starting Minerals
 49. Cerberus Mine (Spider Mine)
+50. Additional Starting Vespene
+51. Additional Maximum Supply
+52. Mutalisk
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -119,6 +123,9 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Terran): Gather Minerals
 - Lab Rat (Terran): South Marine Group
 - Lab Rat (Terran): Supply Depot
+- Lab Rat (Terran): Victory
+- Lab Rat (Terran): Victory Cache (1)
+- Lab Rat (Terran): Victory Cache (2)
 - Lab Rat (Terran): West Marine Group
 - Lab Rat (Zerg): East Zergling Group
 - Lab Rat (Zerg): Gas Turrets
