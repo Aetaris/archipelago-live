@@ -2,18 +2,19 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:12:46.717Z
+Report generated: 2026-10-19T09:16:47.418Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 13 / 1782
-Received items: 13
+Checks: 14 / 1782
+Received items: 14
 
 CURRENT INVENTORY
 -----------------
 1x Additional Maximum Supply
 3x Additional Starting Supply
+1x Disruptor Dispersion (Immortal/Annihilator)
 1x Goliath
 1x Hunter-Seeker Weapon (Raven)
 1x Increased Building Construction Speed
@@ -38,12 +39,14 @@ ITEM RECEIPT HISTORY
 11. Goliath
 12. Additional Maximum Supply
 13. Additional Starting Supply
+14. Disruptor Dispersion (Immortal/Annihilator)
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Lab Rat (Protoss): Gather Minerals
 - Lab Rat (Protoss): Nexus
 - Lab Rat (Protoss): Pylon
+- Lab Rat (Protoss): South Zealot Group
 - Lab Rat (Zerg): East Zergling Group
 - Lab Rat (Zerg): Gas Turrets
 - Lab Rat (Zerg): Gather Minerals
