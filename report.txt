@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T13:00:47.782Z
+Report generated: 2026-10-19T13:03:53.930Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 54 / 1782
-Received items: 54
+Checks: 55 / 1782
+Received items: 55
 
 CURRENT INVENTORY
 -----------------
@@ -33,6 +33,7 @@ CURRENT INVENTORY
 1x Immobilization Wave (Kerrigan Ability)
 4x Increased Building Construction Speed
 3x Increased Shield Regeneration
+1x Juggernaut Plating (Marauder)
 1x Mutalisk
 1x Organic Carapace (Swarm Queen)
 1x Progressive Regenerative Bio-Steel (Terran)
@@ -103,6 +104,7 @@ ITEM RECEIPT HISTORY
 52. Mutalisk
 53. Havoc
 54. Vicious Glaive (Mutalisk)
+55. Juggernaut Plating (Marauder)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -159,6 +161,7 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): Victory Cache (2)
 - The Growing Shadow (Protoss): West Pylon
 - Zero Hour (Terran): First Group Rescued
+- Zero Hour (Terran): Ride's on its Way
 - Zero Hour (Terran): Second Group Rescued
 
 END OF REPORT
