@@ -1,0 +1,50 @@
+ARCHIPELAGO LIVE REPORT
+======================
+Player: Arcan
+Game: Starcraft 2
+Report generated: 2026-10-19T09:00:26.139Z
+Note: Archipelago tracking data may be cached for approximately 60 seconds.
+
+PROGRESS
+--------
+Checks: 10 / 1782
+Received items: 10
+
+CURRENT INVENTORY
+-----------------
+2x Additional Starting Supply
+1x Hunter-Seeker Weapon (Raven)
+1x Increased Building Construction Speed
+2x Increased Shield Regeneration
+1x Progressive Regenerative Bio-Steel (Terran)
+1x Progressive Terran Infantry Weapon
+1x Tactical Jump (Hercules)
+1x Zergling
+
+ITEM RECEIPT HISTORY
+--------------------
+1. Progressive Regenerative Bio-Steel (Terran)
+2. Additional Starting Supply
+3. Increased Building Construction Speed
+4. Hunter-Seeker Weapon (Raven)
+5. Tactical Jump (Hercules)
+6. Zergling
+7. Progressive Terran Infantry Weapon
+8. Additional Starting Supply
+9. Increased Shield Regeneration
+10. Increased Shield Regeneration
+
+COMPLETED LOCATION CHECKS
+-------------------------
+- Lab Rat (Zerg): East Zergling Group
+- Lab Rat (Zerg): Gas Turrets
+- Lab Rat (Zerg): Gather Minerals
+- Lab Rat (Zerg): Hatchery
+- Lab Rat (Zerg): Overlord
+- Lab Rat (Zerg): South Zergling Group
+- Lab Rat (Zerg): Victory
+- Lab Rat (Zerg): Victory Cache (1)
+- Lab Rat (Zerg): Victory Cache (2)
+- Lab Rat (Zerg): West Zergling Group
+
+END OF REPORT
