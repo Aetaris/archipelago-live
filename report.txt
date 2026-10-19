@@ -2,19 +2,19 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T13:03:53.930Z
+Report generated: 2026-10-19T13:05:49.250Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 55 / 1782
-Received items: 55
+Checks: 56 / 1782
+Received items: 56
 
 CURRENT INVENTORY
 -----------------
 5x Additional Maximum Supply
 5x Additional Starting Minerals
-4x Additional Starting Supply
+5x Additional Starting Supply
 5x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -105,6 +105,7 @@ ITEM RECEIPT HISTORY
 53. Havoc
 54. Vicious Glaive (Mutalisk)
 55. Juggernaut Plating (Marauder)
+56. Additional Starting Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -163,5 +164,6 @@ COMPLETED LOCATION CHECKS
 - Zero Hour (Terran): First Group Rescued
 - Zero Hour (Terran): Ride's on its Way
 - Zero Hour (Terran): Second Group Rescued
+- Zero Hour (Terran): Third Group Rescued
 
 END OF REPORT
