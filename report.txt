@@ -2,17 +2,17 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T11:13:56.078Z
+Report generated: 2026-10-19T11:18:51.150Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 45 / 1782
-Received items: 45
+Checks: 46 / 1782
+Received items: 46
 
 CURRENT INVENTORY
 -----------------
-3x Additional Maximum Supply
+4x Additional Maximum Supply
 4x Additional Starting Minerals
 4x Additional Starting Supply
 3x Additional Starting Vespene
@@ -90,6 +90,7 @@ ITEM RECEIPT HISTORY
 43. Additional Starting Vespene
 44. Additional Starting Vespene
 45. Progressive Zerg Flyer Attack
+46. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -110,6 +111,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Protoss): West Zealot Group
 - Lab Rat (Terran): Command Center
 - Lab Rat (Terran): Gather Minerals
+- Lab Rat (Terran): South Marine Group
 - Lab Rat (Terran): Supply Depot
 - Lab Rat (Zerg): East Zergling Group
 - Lab Rat (Zerg): Gas Turrets
