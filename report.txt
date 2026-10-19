@@ -2,18 +2,18 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T09:31:51.166Z
+Report generated: 2026-10-19T09:36:47.805Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 23 / 1782
-Received items: 23
+Checks: 25 / 1782
+Received items: 25
 
 CURRENT INVENTORY
 -----------------
-2x Additional Maximum Supply
-1x Additional Starting Minerals
+3x Additional Maximum Supply
+2x Additional Starting Minerals
 3x Additional Starting Supply
 1x Chronoclysm (Pulsar)
 1x Death Heads
@@ -55,6 +55,8 @@ ITEM RECEIPT HISTORY
 21. Death Heads
 22. Increased Shield Regeneration
 23. Increased Building Construction Speed
+24. Additional Starting Minerals
+25. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -81,5 +83,7 @@ COMPLETED LOCATION CHECKS
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Second Relic
 - Smash and Grab (Terran): Third Relic
+- The Growing Shadow (Protoss): Close Pylon
+- The Growing Shadow (Protoss): Nexus
 
 END OF REPORT
