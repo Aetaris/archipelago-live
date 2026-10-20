@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T19:58:47.241Z
+Report generated: 2026-10-20T20:00:55.149Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 91 / 1782
-Received items: 91
+Checks: 92 / 1782
+Received items: 92
 
 CURRENT INVENTORY
 -----------------
@@ -20,6 +20,7 @@ CURRENT INVENTORY
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
+1x Bile Launcher
 1x Caladrius
 1x Cerberus Mine (Spider Mine)
 1x Chronoclysm (Pulsar)
@@ -160,6 +161,7 @@ ITEM RECEIPT HISTORY
 89. Increased Shield Regeneration
 90. Increased Building Construction Speed
 91. Matter Dispersion (Vanguard)
+92. Bile Launcher
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -184,6 +186,7 @@ COMPLETED LOCATION CHECKS
 - Evacuation (Zerg): North Chrysalis
 - Evacuation (Zerg): Reach Hanson
 - Evacuation (Zerg): Secret Resource Stash
+- Evacuation (Zerg): West Chrysalis
 - Lab Rat (Protoss): East Zealot Group
 - Lab Rat (Protoss): Gas Turrets
 - Lab Rat (Protoss): Gather Minerals
