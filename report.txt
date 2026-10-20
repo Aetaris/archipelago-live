@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:12:48.437Z
+Report generated: 2026-10-20T15:13:54.240Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 71 / 1782
-Received items: 71
+Checks: 74 / 1782
+Received items: 74
 
 CURRENT INVENTORY
 -----------------
@@ -33,16 +33,18 @@ CURRENT INVENTORY
 1x Havoc
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
-5x Increased Building Construction Speed
+6x Increased Building Construction Speed
 4x Increased Shield Regeneration
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Mutalisk
 1x Nano Projector (Medic)
 1x Organic Carapace (Swarm Queen)
+1x Progressive Protoss Air Armor
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Stimpack (Marine)
 1x Progressive Terran Infantry Weapon
+1x Progressive Terran Ship Weapon
 1x Progressive Zerg Flyer Attack
 1x Progressive Zerg Melee Attack
 1x Quatro (Protoss)
@@ -128,11 +130,17 @@ ITEM RECEIPT HISTORY
 69. Additional Starting Minerals
 70. Additional Starting Supply
 71. 5 Kerrigan Levels
+72. Progressive Terran Ship Weapon
+73. Increased Building Construction Speed
+74. Progressive Protoss Air Armor
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Domination (Zerg): Center Infested Command Center
 - Domination (Zerg): Close Baneling Nest
+- Domination (Zerg): North Baneling Nest
+- Domination (Zerg): North Infested Command Center
+- Domination (Zerg): Northeast Baneling Nest
 - Domination (Zerg): Repel Zagara
 - Domination (Zerg): South Baneling Nest
 - Domination (Zerg): Southeast Baneling Nest
