@@ -2,19 +2,19 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:13:54.240Z
+Report generated: 2026-10-20T15:16:47.217Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 74 / 1782
-Received items: 74
+Checks: 78 / 1782
+Received items: 78
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
-7x Additional Maximum Supply
-7x Additional Starting Minerals
+8x Additional Maximum Supply
+8x Additional Starting Minerals
 6x Additional Starting Supply
 6x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
@@ -33,8 +33,9 @@ CURRENT INVENTORY
 1x Havoc
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
-6x Increased Building Construction Speed
+7x Increased Building Construction Speed
 4x Increased Shield Regeneration
+1x Infestor
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Mutalisk
@@ -133,6 +134,10 @@ ITEM RECEIPT HISTORY
 72. Progressive Terran Ship Weapon
 73. Increased Building Construction Speed
 74. Progressive Protoss Air Armor
+75. Additional Starting Minerals
+76. Increased Building Construction Speed
+77. Infestor
+78. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -145,6 +150,10 @@ COMPLETED LOCATION CHECKS
 - Domination (Zerg): South Baneling Nest
 - Domination (Zerg): Southeast Baneling Nest
 - Domination (Zerg): Southwest Baneling Nest
+- Domination (Zerg): Victory
+- Domination (Zerg): Victory Cache (1)
+- Domination (Zerg): Victory Cache (2)
+- Domination (Zerg): Win Without 100 Eggs
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
