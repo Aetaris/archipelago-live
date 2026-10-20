@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:35:46.670Z
+Report generated: 2026-10-20T15:37:46.434Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 81 / 1782
-Received items: 81
+Checks: 82 / 1782
+Received items: 82
 
 CURRENT INVENTORY
 -----------------
@@ -39,6 +39,7 @@ CURRENT INVENTORY
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Matrix Overload (Protoss)
+1x Modernized Servos (Instigator)
 1x Mutalisk
 1x Nano Projector (Medic)
 1x Organic Carapace (Swarm Queen)
@@ -144,6 +145,7 @@ ITEM RECEIPT HISTORY
 79. Progressive Protoss Ground Armor
 80. Roach
 81. Matrix Overload (Protoss)
+82. Modernized Servos (Instigator)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -195,6 +197,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (1)
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
+- Outbreak (Protoss): Left Infestor
 - Outbreak (Protoss): North Bar
 - Outbreak (Protoss): North Infested Command Center
 - Outbreak (Protoss): Right Infestor
