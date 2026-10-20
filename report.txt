@@ -2,18 +2,18 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:40:51.939Z
+Report generated: 2026-10-20T15:41:52.578Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 84 / 1782
-Received items: 84
+Checks: 85 / 1782
+Received items: 85
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
-8x Additional Maximum Supply
+9x Additional Maximum Supply
 8x Additional Starting Minerals
 6x Additional Starting Supply
 6x Additional Starting Vespene
@@ -150,6 +150,7 @@ ITEM RECEIPT HISTORY
 82. Modernized Servos (Instigator)
 83. Wild Mutation (Kerrigan Ability)
 84. Monarch Blades (Ultralisk)
+85. Additional Maximum Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -207,6 +208,7 @@ COMPLETED LOCATION CHECKS
 - Outbreak (Protoss): Northwest Bar
 - Outbreak (Protoss): Right Infestor
 - Outbreak (Protoss): South Bar
+- Outbreak (Protoss): South Infested Command Center
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Fourth Relic
