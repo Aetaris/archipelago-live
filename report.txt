@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:05:52.837Z
+Report generated: 2026-10-20T15:09:48.994Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 67 / 1782
-Received items: 67
+Checks: 68 / 1782
+Received items: 68
 
 CURRENT INVENTORY
 -----------------
@@ -27,6 +27,7 @@ CURRENT INVENTORY
 1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
+1x Generate Creep (Overlord)
 1x Goliath
 1x Havoc
 1x Hunter-Seeker Weapon (Raven)
@@ -122,11 +123,13 @@ ITEM RECEIPT HISTORY
 65. Additional Maximum Supply
 66. Additional Maximum Supply
 67. Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
+68. Generate Creep (Overlord)
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Domination (Zerg): Close Baneling Nest
 - Domination (Zerg): Repel Zagara
+- Domination (Zerg): Southwest Baneling Nest
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
