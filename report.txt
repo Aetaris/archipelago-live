@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:39:49.616Z
+Report generated: 2026-10-20T15:40:51.939Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 83 / 1782
-Received items: 83
+Checks: 84 / 1782
+Received items: 84
 
 CURRENT INVENTORY
 -----------------
@@ -40,6 +40,7 @@ CURRENT INVENTORY
 1x Juggernaut Plating (Marauder)
 1x Matrix Overload (Protoss)
 1x Modernized Servos (Instigator)
+1x Monarch Blades (Ultralisk)
 1x Mutalisk
 1x Nano Projector (Medic)
 1x Organic Carapace (Swarm Queen)
@@ -148,6 +149,7 @@ ITEM RECEIPT HISTORY
 81. Matrix Overload (Protoss)
 82. Modernized Servos (Instigator)
 83. Wild Mutation (Kerrigan Ability)
+84. Monarch Blades (Ultralisk)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -204,6 +206,7 @@ COMPLETED LOCATION CHECKS
 - Outbreak (Protoss): North Infested Command Center
 - Outbreak (Protoss): Northwest Bar
 - Outbreak (Protoss): Right Infestor
+- Outbreak (Protoss): South Bar
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Fourth Relic
