@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:30:53.931Z
+Report generated: 2026-10-20T15:31:56.398Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 79 / 1782
-Received items: 79
+Checks: 80 / 1782
+Received items: 80
 
 CURRENT INVENTORY
 -----------------
@@ -52,6 +52,7 @@ CURRENT INVENTORY
 1x Quatro (Protoss)
 1x Resource Efficiency (Arbiter)
 1x Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
+1x Roach
 1x Sensor Array (Observer)
 1x Tactical Jump (Hercules)
 1x Transcendence (Archon)
@@ -140,6 +141,7 @@ ITEM RECEIPT HISTORY
 77. Infestor
 78. Additional Maximum Supply
 79. Progressive Protoss Ground Armor
+80. Roach
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -192,6 +194,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
 - Outbreak (Protoss): North Infested Command Center
+- Outbreak (Protoss): Right Infestor
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Fourth Relic
