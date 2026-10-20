@@ -2,20 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:41:52.578Z
+Report generated: 2026-10-20T15:42:55.258Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 85 / 1782
-Received items: 85
+Checks: 88 / 1782
+Received items: 88
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
 9x Additional Maximum Supply
 8x Additional Starting Minerals
-6x Additional Starting Supply
+7x Additional Starting Supply
 6x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -38,6 +38,7 @@ CURRENT INVENTORY
 1x Infestor
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
+1x Laser Targeting System (Liberator)
 1x Matrix Overload (Protoss)
 1x Modernized Servos (Instigator)
 1x Monarch Blades (Ultralisk)
@@ -52,6 +53,7 @@ CURRENT INVENTORY
 1x Progressive Terran Ship Weapon
 1x Progressive Zerg Flyer Attack
 1x Progressive Zerg Melee Attack
+1x Psionic Lash (Spectre)
 1x Quatro (Protoss)
 1x Resource Efficiency (Arbiter)
 1x Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
@@ -151,6 +153,9 @@ ITEM RECEIPT HISTORY
 83. Wild Mutation (Kerrigan Ability)
 84. Monarch Blades (Ultralisk)
 85. Additional Maximum Supply
+86. Psionic Lash (Spectre)
+87. Laser Targeting System (Liberator)
+88. Additional Starting Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -209,6 +214,9 @@ COMPLETED LOCATION CHECKS
 - Outbreak (Protoss): Right Infestor
 - Outbreak (Protoss): South Bar
 - Outbreak (Protoss): South Infested Command Center
+- Outbreak (Protoss): Victory
+- Outbreak (Protoss): Victory Cache (1)
+- Outbreak (Protoss): Victory Cache (2)
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Fourth Relic
