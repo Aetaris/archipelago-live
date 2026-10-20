@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T20:00:55.149Z
+Report generated: 2026-10-20T20:07:47.182Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 92 / 1782
-Received items: 92
+Checks: 93 / 1782
+Received items: 93
 
 CURRENT INVENTORY
 -----------------
@@ -46,6 +46,7 @@ CURRENT INVENTORY
 1x Monarch Blades (Ultralisk)
 1x Mutalisk
 1x Nano Projector (Medic)
+1x Optimized Logistics (Goliath)
 1x Organic Carapace (Swarm Queen)
 1x Progressive Protoss Air Armor
 1x Progressive Protoss Ground Armor
@@ -162,6 +163,7 @@ ITEM RECEIPT HISTORY
 90. Increased Building Construction Speed
 91. Matter Dispersion (Vanguard)
 92. Bile Launcher
+93. Optimized Logistics (Goliath)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -183,6 +185,7 @@ COMPLETED LOCATION CHECKS
 - Evacuation (Protoss): Reach Hanson
 - Evacuation (Protoss): Secret Resource Stash
 - Evacuation (Protoss): West Chrysalis
+- Evacuation (Zerg): East Chrysalis
 - Evacuation (Zerg): North Chrysalis
 - Evacuation (Zerg): Reach Hanson
 - Evacuation (Zerg): Secret Resource Stash
