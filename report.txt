@@ -2,19 +2,19 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:09:48.994Z
+Report generated: 2026-10-20T15:11:51.198Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 68 / 1782
-Received items: 68
+Checks: 70 / 1782
+Received items: 70
 
 CURRENT INVENTORY
 -----------------
 7x Additional Maximum Supply
-6x Additional Starting Minerals
-5x Additional Starting Supply
+7x Additional Starting Minerals
+6x Additional Starting Supply
 6x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -124,11 +124,15 @@ ITEM RECEIPT HISTORY
 66. Additional Maximum Supply
 67. Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
 68. Generate Creep (Overlord)
+69. Additional Starting Minerals
+70. Additional Starting Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Domination (Zerg): Close Baneling Nest
 - Domination (Zerg): Repel Zagara
+- Domination (Zerg): South Baneling Nest
+- Domination (Zerg): Southeast Baneling Nest
 - Domination (Zerg): Southwest Baneling Nest
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
