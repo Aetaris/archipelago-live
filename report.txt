@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:42:55.258Z
+Report generated: 2026-10-20T19:55:49.952Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 88 / 1782
-Received items: 88
+Checks: 89 / 1782
+Received items: 89
 
 CURRENT INVENTORY
 -----------------
@@ -34,7 +34,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 7x Increased Building Construction Speed
-4x Increased Shield Regeneration
+5x Increased Shield Regeneration
 1x Infestor
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
@@ -156,6 +156,7 @@ ITEM RECEIPT HISTORY
 86. Psionic Lash (Spectre)
 87. Laser Targeting System (Liberator)
 88. Additional Starting Supply
+89. Increased Shield Regeneration
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -177,6 +178,7 @@ COMPLETED LOCATION CHECKS
 - Evacuation (Protoss): Reach Hanson
 - Evacuation (Protoss): Secret Resource Stash
 - Evacuation (Protoss): West Chrysalis
+- Evacuation (Zerg): Secret Resource Stash
 - Lab Rat (Protoss): East Zealot Group
 - Lab Rat (Protoss): Gas Turrets
 - Lab Rat (Protoss): Gather Minerals
