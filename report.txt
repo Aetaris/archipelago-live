@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:37:46.434Z
+Report generated: 2026-10-20T15:39:49.616Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 82 / 1782
-Received items: 82
+Checks: 83 / 1782
+Received items: 83
 
 CURRENT INVENTORY
 -----------------
@@ -60,6 +60,7 @@ CURRENT INVENTORY
 1x Transcendence (Archon)
 1x Twin-Linked Flamethrower (Hellion)
 1x Vicious Glaive (Mutalisk)
+1x Wild Mutation (Kerrigan Ability)
 1x Zergling
 
 ITEM RECEIPT HISTORY
@@ -146,6 +147,7 @@ ITEM RECEIPT HISTORY
 80. Roach
 81. Matrix Overload (Protoss)
 82. Modernized Servos (Instigator)
+83. Wild Mutation (Kerrigan Ability)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -200,6 +202,7 @@ COMPLETED LOCATION CHECKS
 - Outbreak (Protoss): Left Infestor
 - Outbreak (Protoss): North Bar
 - Outbreak (Protoss): North Infested Command Center
+- Outbreak (Protoss): Northwest Bar
 - Outbreak (Protoss): Right Infestor
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
