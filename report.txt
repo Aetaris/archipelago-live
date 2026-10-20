@@ -2,17 +2,17 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-19T13:11:55.705Z
+Report generated: 2026-10-20T15:05:52.837Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 65 / 1782
-Received items: 65
+Checks: 67 / 1782
+Received items: 67
 
 CURRENT INVENTORY
 -----------------
-6x Additional Maximum Supply
+7x Additional Maximum Supply
 6x Additional Starting Minerals
 5x Additional Starting Supply
 6x Additional Starting Vespene
@@ -45,6 +45,7 @@ CURRENT INVENTORY
 1x Progressive Zerg Melee Attack
 1x Quatro (Protoss)
 1x Resource Efficiency (Arbiter)
+1x Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
 1x Sensor Array (Observer)
 1x Tactical Jump (Hercules)
 1x Transcendence (Archon)
@@ -119,9 +120,13 @@ ITEM RECEIPT HISTORY
 63. Nano Projector (Medic)
 64. Additional Starting Vespene
 65. Additional Maximum Supply
+66. Additional Maximum Supply
+67. Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Domination (Zerg): Close Baneling Nest
+- Domination (Zerg): Repel Zagara
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
