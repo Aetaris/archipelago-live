@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:16:47.217Z
+Report generated: 2026-10-20T15:30:53.931Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 78 / 1782
-Received items: 78
+Checks: 79 / 1782
+Received items: 79
 
 CURRENT INVENTORY
 -----------------
@@ -42,6 +42,7 @@ CURRENT INVENTORY
 1x Nano Projector (Medic)
 1x Organic Carapace (Swarm Queen)
 1x Progressive Protoss Air Armor
+1x Progressive Protoss Ground Armor
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Stimpack (Marine)
 1x Progressive Terran Infantry Weapon
@@ -138,6 +139,7 @@ ITEM RECEIPT HISTORY
 76. Increased Building Construction Speed
 77. Infestor
 78. Additional Maximum Supply
+79. Progressive Protoss Ground Armor
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -189,6 +191,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (1)
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
+- Outbreak (Protoss): North Infested Command Center
 - Smash and Grab (Terran): First Forcefield Area Busted
 - Smash and Grab (Terran): First Relic
 - Smash and Grab (Terran): Fourth Relic
