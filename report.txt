@@ -2,16 +2,17 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T15:11:51.198Z
+Report generated: 2026-10-20T15:12:48.437Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 70 / 1782
-Received items: 70
+Checks: 71 / 1782
+Received items: 71
 
 CURRENT INVENTORY
 -----------------
+1x 5 Kerrigan Levels
 7x Additional Maximum Supply
 7x Additional Starting Minerals
 6x Additional Starting Supply
@@ -126,9 +127,11 @@ ITEM RECEIPT HISTORY
 68. Generate Creep (Overlord)
 69. Additional Starting Minerals
 70. Additional Starting Supply
+71. 5 Kerrigan Levels
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Domination (Zerg): Center Infested Command Center
 - Domination (Zerg): Close Baneling Nest
 - Domination (Zerg): Repel Zagara
 - Domination (Zerg): South Baneling Nest
