@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T03:29:51.506Z
+Report generated: 2026-10-22T09:07:46.799Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 103 / 1782
-Received items: 103
+Checks: 104 / 1782
+Received items: 104
 
 CURRENT INVENTORY
 -----------------
@@ -16,7 +16,7 @@ CURRENT INVENTORY
 9x Additional Maximum Supply
 9x Additional Starting Minerals
 8x Additional Starting Supply
-6x Additional Starting Vespene
+7x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
@@ -182,9 +182,11 @@ ITEM RECEIPT HISTORY
 101. Infernal Plating (Hellion)
 102. Laser Targeting System (Siege Tank)
 103. Construct Regeneration (Aberration)
+104. Additional Starting Vespene
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Domination (Terran): Repel Zagara
 - Domination (Zerg): Center Infested Command Center
 - Domination (Zerg): Close Baneling Nest
 - Domination (Zerg): North Baneling Nest
