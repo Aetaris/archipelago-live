@@ -2,20 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T03:19:46.458Z
+Report generated: 2026-10-22T03:22:52.297Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 96 / 1782
-Received items: 96
+Checks: 97 / 1782
+Received items: 97
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
 9x Additional Maximum Supply
 8x Additional Starting Minerals
-7x Additional Starting Supply
+8x Additional Starting Supply
 6x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -170,6 +170,7 @@ ITEM RECEIPT HISTORY
 94. Fusion Mortars (Vanguard)
 95. War Pigs
 96. Magrail Munitions (Marauder)
+97. Additional Starting Supply
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -256,6 +257,7 @@ COMPLETED LOCATION CHECKS
 - The Spear of Adun (Protoss): Close Warp Gate
 - The Spear of Adun (Protoss): North Power Cell
 - The Spear of Adun (Protoss): North Warp Gate
+- The Spear of Adun (Protoss): West Warp Gate
 - Zero Hour (Terran): Cavalry's on the Way
 - Zero Hour (Terran): First Group Rescued
 - Zero Hour (Terran): First Hatchery
