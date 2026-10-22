@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-20T20:07:47.182Z
+Report generated: 2026-10-22T03:08:46.494Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 93 / 1782
-Received items: 93
+Checks: 94 / 1782
+Received items: 94
 
 CURRENT INVENTORY
 -----------------
@@ -29,6 +29,7 @@ CURRENT INVENTORY
 1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
+1x Fusion Mortars (Vanguard)
 1x Generate Creep (Overlord)
 1x Goliath
 1x Havoc
@@ -164,6 +165,7 @@ ITEM RECEIPT HISTORY
 91. Matter Dispersion (Vanguard)
 92. Bile Launcher
 93. Optimized Logistics (Goliath)
+94. Fusion Mortars (Vanguard)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -247,6 +249,7 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): Victory Cache (1)
 - The Growing Shadow (Protoss): Victory Cache (2)
 - The Growing Shadow (Protoss): West Pylon
+- The Spear of Adun (Protoss): Close Warp Gate
 - Zero Hour (Terran): Cavalry's on the Way
 - Zero Hour (Terran): First Group Rescued
 - Zero Hour (Terran): First Hatchery
