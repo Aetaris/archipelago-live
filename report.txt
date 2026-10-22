@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T09:20:46.523Z
+Report generated: 2026-10-22T09:24:47.254Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 112 / 1782
-Received items: 112
+Checks: 116 / 1782
+Received items: 116
 
 CURRENT INVENTORY
 -----------------
@@ -16,7 +16,7 @@ CURRENT INVENTORY
 10x Additional Maximum Supply
 9x Additional Starting Minerals
 8x Additional Starting Supply
-7x Additional Starting Vespene
+9x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
@@ -43,6 +43,7 @@ CURRENT INVENTORY
 1x Infestor
 1x Integrated Power (Mothership)
 1x Internal Tech Module (Siege Tank)
+1x Ionic Wavelength Flux (Phoenix/Mirage/Skirmisher)
 1x Juggernaut Plating (Marauder)
 1x Laser Targeting System (Liberator)
 1x Laser Targeting System (Siege Tank)
@@ -58,6 +59,7 @@ CURRENT INVENTORY
 1x Power Siphon (Archon)
 1x Progressive Protoss Air Armor
 1x Progressive Protoss Ground Armor
+1x Progressive Protoss Ground Weapon
 1x Progressive Regenerative Bio-Steel (Terran)
 1x Progressive Stimpack (Marine)
 1x Progressive Terran Infantry Weapon
@@ -197,6 +199,10 @@ ITEM RECEIPT HISTORY
 110. Additional Maximum Supply
 111. Integrated Power (Mothership)
 112. Increased Shield Regeneration
+113. Additional Starting Vespene
+114. Additional Starting Vespene
+115. Ionic Wavelength Flux (Phoenix/Mirage/Skirmisher)
+116. Progressive Protoss Ground Weapon
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -209,6 +215,10 @@ COMPLETED LOCATION CHECKS
 - Domination (Terran): South Bunker
 - Domination (Terran): Southeast Bunker
 - Domination (Terran): Southwest Bunker
+- Domination (Terran): Victory
+- Domination (Terran): Victory Cache (1)
+- Domination (Terran): Victory Cache (2)
+- Domination (Terran): Win Without 100 Eggs
 - Domination (Zerg): Center Infested Command Center
 - Domination (Zerg): Close Baneling Nest
 - Domination (Zerg): North Baneling Nest
