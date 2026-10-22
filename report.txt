@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T03:15:52.962Z
+Report generated: 2026-10-22T03:19:46.458Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 95 / 1782
-Received items: 95
+Checks: 96 / 1782
+Received items: 96
 
 CURRENT INVENTORY
 -----------------
@@ -41,6 +41,7 @@ CURRENT INVENTORY
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Laser Targeting System (Liberator)
+1x Magrail Munitions (Marauder)
 1x Matrix Overload (Protoss)
 1x Matter Dispersion (Vanguard)
 1x Modernized Servos (Instigator)
@@ -168,6 +169,7 @@ ITEM RECEIPT HISTORY
 93. Optimized Logistics (Goliath)
 94. Fusion Mortars (Vanguard)
 95. War Pigs
+96. Magrail Munitions (Marauder)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -253,6 +255,7 @@ COMPLETED LOCATION CHECKS
 - The Growing Shadow (Protoss): West Pylon
 - The Spear of Adun (Protoss): Close Warp Gate
 - The Spear of Adun (Protoss): North Power Cell
+- The Spear of Adun (Protoss): North Warp Gate
 - Zero Hour (Terran): Cavalry's on the Way
 - Zero Hour (Terran): First Group Rescued
 - Zero Hour (Terran): First Hatchery
