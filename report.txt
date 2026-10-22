@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T03:22:52.297Z
+Report generated: 2026-10-22T03:25:47.935Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 97 / 1782
-Received items: 97
+Checks: 98 / 1782
+Received items: 98
 
 CURRENT INVENTORY
 -----------------
@@ -64,6 +64,7 @@ CURRENT INVENTORY
 1x Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
 1x Roach
 1x Sensor Array (Observer)
+1x Skirmisher
 1x Tactical Jump (Hercules)
 1x Transcendence (Archon)
 1x Twin-Linked Flamethrower (Hellion)
@@ -171,6 +172,7 @@ ITEM RECEIPT HISTORY
 95. War Pigs
 96. Magrail Munitions (Marauder)
 97. Additional Starting Supply
+98. Skirmisher
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -257,6 +259,7 @@ COMPLETED LOCATION CHECKS
 - The Spear of Adun (Protoss): Close Warp Gate
 - The Spear of Adun (Protoss): North Power Cell
 - The Spear of Adun (Protoss): North Warp Gate
+- The Spear of Adun (Protoss): South Power Cell
 - The Spear of Adun (Protoss): West Warp Gate
 - Zero Hour (Terran): Cavalry's on the Way
 - Zero Hour (Terran): First Group Rescued
