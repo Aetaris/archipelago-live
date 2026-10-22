@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T09:08:46.957Z
+Report generated: 2026-10-22T09:15:48.155Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 105 / 1782
-Received items: 105
+Checks: 106 / 1782
+Received items: 106
 
 CURRENT INVENTORY
 -----------------
@@ -34,6 +34,7 @@ CURRENT INVENTORY
 1x Generate Creep (Overlord)
 1x Goliath
 1x Havoc
+1x Hunter Strain (Baneling)
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 8x Increased Building Construction Speed
@@ -185,9 +186,11 @@ ITEM RECEIPT HISTORY
 103. Construct Regeneration (Aberration)
 104. Additional Starting Vespene
 105. Siege Breakers
+106. Hunter Strain (Baneling)
 
 COMPLETED LOCATION CHECKS
 -------------------------
+- Domination (Terran): Center Infested Command Center
 - Domination (Terran): Close Bunker
 - Domination (Terran): Repel Zagara
 - Domination (Zerg): Center Infested Command Center
