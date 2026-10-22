@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-22T09:18:47.036Z
+Report generated: 2026-10-22T09:19:46.596Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 110 / 1782
-Received items: 110
+Checks: 111 / 1782
+Received items: 111
 
 CURRENT INVENTORY
 -----------------
@@ -41,6 +41,7 @@ CURRENT INVENTORY
 5x Increased Shield Regeneration
 1x Infernal Plating (Hellion)
 1x Infestor
+1x Integrated Power (Mothership)
 1x Internal Tech Module (Siege Tank)
 1x Juggernaut Plating (Marauder)
 1x Laser Targeting System (Liberator)
@@ -194,11 +195,13 @@ ITEM RECEIPT HISTORY
 108. Quantic Reactor (Tempest)
 109. Resource Efficiency (Destroyer)
 110. Additional Maximum Supply
+111. Integrated Power (Mothership)
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Domination (Terran): Center Infested Command Center
 - Domination (Terran): Close Bunker
+- Domination (Terran): North Infested Command Center
 - Domination (Terran): Northeast Bunker
 - Domination (Terran): Repel Zagara
 - Domination (Terran): South Bunker
