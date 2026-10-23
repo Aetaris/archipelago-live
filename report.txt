@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T04:10:48.387Z
+Report generated: 2026-10-23T06:19:49.109Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 122 / 1782
-Received items: 122
+Checks: 123 / 1782
+Received items: 123
 
 CURRENT INVENTORY
 -----------------
@@ -19,6 +19,7 @@ CURRENT INVENTORY
 9x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
+1x Ares-Class Targeting System (Goliath)
 1x Banshee
 1x Bile Launcher
 1x Bio Mechanical Repair Drone (Raven)
@@ -214,6 +215,7 @@ ITEM RECEIPT HISTORY
 120. Enhanced Strider Servos (Dragoon)
 121. Tunneling Claws (Roach)
 122. Bio Mechanical Repair Drone (Raven)
+123. Ares-Class Targeting System (Goliath)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -243,6 +245,7 @@ COMPLETED LOCATION CHECKS
 - Domination (Zerg): Victory Cache (1)
 - Domination (Zerg): Victory Cache (2)
 - Domination (Zerg): Win Without 100 Eggs
+- Echoes of the Future (Protoss): Base
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
