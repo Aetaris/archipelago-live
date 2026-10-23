@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T03:57:52.322Z
+Report generated: 2026-10-23T04:00:47.880Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 120 / 1782
-Received items: 120
+Checks: 121 / 1782
+Received items: 121
 
 CURRENT INVENTORY
 -----------------
@@ -81,6 +81,7 @@ CURRENT INVENTORY
 1x Tactical Jump (Hercules)
 1x Tissue Assimilation (Ultralisk)
 1x Transcendence (Archon)
+1x Tunneling Claws (Roach)
 1x Twin-Linked Flamethrower (Hellion)
 1x Vicious Glaive (Mutalisk)
 1x War Pigs
@@ -210,6 +211,7 @@ ITEM RECEIPT HISTORY
 118. Increased Shield Regeneration
 119. Wrathwalker
 120. Enhanced Strider Servos (Dragoon)
+121. Tunneling Claws (Roach)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -281,6 +283,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): West Zergling Group
 - Old Soldiers (Terran): Entrance Gate
 - Old Soldiers (Terran): Get Nuked
+- Old Soldiers (Terran): North Science Lab
 - Old Soldiers (Terran): Rich Mineral Expansion
 - Old Soldiers (Terran): South Expansion
 - Outbreak (Protoss): Left Infestor
