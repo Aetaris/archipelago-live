@@ -2,19 +2,19 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T06:19:49.109Z
+Report generated: 2026-10-23T06:22:50.445Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 123 / 1782
-Received items: 123
+Checks: 125 / 1782
+Received items: 125
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
 10x Additional Maximum Supply
-9x Additional Starting Minerals
+10x Additional Starting Minerals
 8x Additional Starting Supply
 9x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
@@ -42,7 +42,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 8x Increased Building Construction Speed
-7x Increased Shield Regeneration
+8x Increased Shield Regeneration
 1x Infernal Plating (Hellion)
 1x Infestor
 1x Integrated Power (Mothership)
@@ -216,6 +216,8 @@ ITEM RECEIPT HISTORY
 121. Tunneling Claws (Roach)
 122. Bio Mechanical Repair Drone (Raven)
 123. Ares-Class Targeting System (Goliath)
+124. Additional Starting Minerals
+125. Increased Shield Regeneration
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -246,6 +248,8 @@ COMPLETED LOCATION CHECKS
 - Domination (Zerg): Victory Cache (2)
 - Domination (Zerg): Win Without 100 Eggs
 - Echoes of the Future (Protoss): Base
+- Echoes of the Future (Protoss): Close Obelisk
+- Echoes of the Future (Protoss): Southwest Tendril
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
