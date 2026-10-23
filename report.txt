@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T06:36:56.104Z
+Report generated: 2026-10-23T06:37:47.260Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 127 / 1782
-Received items: 127
+Checks: 128 / 1782
+Received items: 128
 
 CURRENT INVENTORY
 -----------------
@@ -74,6 +74,7 @@ CURRENT INVENTORY
 1x Psionic Lash (Spectre)
 1x Quantic Reactor (Tempest)
 1x Quatro (Protoss)
+1x Rapid Fire Launchers (Cyclone)
 1x Resource Efficiency (Arbiter)
 1x Resource Efficiency (Dark Templar/Avenger/Blood Hunter)
 1x Resource Efficiency (Destroyer)
@@ -221,6 +222,7 @@ ITEM RECEIPT HISTORY
 125. Increased Shield Regeneration
 126. Catalytic Boosters (Bullfrog)
 127. Increased Shield Regeneration
+128. Rapid Fire Launchers (Cyclone)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -252,6 +254,7 @@ COMPLETED LOCATION CHECKS
 - Domination (Zerg): Win Without 100 Eggs
 - Echoes of the Future (Protoss): Base
 - Echoes of the Future (Protoss): Close Obelisk
+- Echoes of the Future (Protoss): Northeast Tendril
 - Echoes of the Future (Protoss): Northwest Tendril
 - Echoes of the Future (Protoss): Southwest Tendril
 - Echoes of the Future (Protoss): West Obelisk
