@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T04:00:47.880Z
+Report generated: 2026-10-23T04:10:48.387Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 121 / 1782
-Received items: 121
+Checks: 122 / 1782
+Received items: 122
 
 CURRENT INVENTORY
 -----------------
@@ -21,6 +21,7 @@ CURRENT INVENTORY
 1x All-Terrain Treads (Siege Tank)
 1x Banshee
 1x Bile Launcher
+1x Bio Mechanical Repair Drone (Raven)
 1x Bosonic Core (Oracle)
 1x Caladrius
 1x Cerberus Mine (Spider Mine)
@@ -212,6 +213,7 @@ ITEM RECEIPT HISTORY
 119. Wrathwalker
 120. Enhanced Strider Servos (Dragoon)
 121. Tunneling Claws (Roach)
+122. Bio Mechanical Repair Drone (Raven)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -281,6 +283,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (1)
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
+- Old Soldiers (Terran): East Science Lab
 - Old Soldiers (Terran): Entrance Gate
 - Old Soldiers (Terran): Get Nuked
 - Old Soldiers (Terran): North Science Lab
