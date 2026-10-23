@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T03:41:46.295Z
+Report generated: 2026-10-23T03:57:52.322Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 119 / 1782
-Received items: 119
+Checks: 120 / 1782
+Received items: 120
 
 CURRENT INVENTORY
 -----------------
@@ -31,6 +31,7 @@ CURRENT INVENTORY
 1x Death Heads
 1x Devil Dogs
 1x Disruptor Dispersion (Immortal/Annihilator)
+1x Enhanced Strider Servos (Dragoon)
 1x Fusion Mortars (Vanguard)
 1x Generate Creep (Overlord)
 1x Goliath
@@ -208,6 +209,7 @@ ITEM RECEIPT HISTORY
 117. Bosonic Core (Oracle)
 118. Increased Shield Regeneration
 119. Wrathwalker
+120. Enhanced Strider Servos (Dragoon)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -279,6 +281,7 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): West Zergling Group
 - Old Soldiers (Terran): Entrance Gate
 - Old Soldiers (Terran): Get Nuked
+- Old Soldiers (Terran): Rich Mineral Expansion
 - Old Soldiers (Terran): South Expansion
 - Outbreak (Protoss): Left Infestor
 - Outbreak (Protoss): North Bar
