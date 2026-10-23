@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T03:39:46.892Z
+Report generated: 2026-10-23T03:41:46.295Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 117 / 1782
-Received items: 117
+Checks: 119 / 1782
+Received items: 119
 
 CURRENT INVENTORY
 -----------------
@@ -39,7 +39,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 8x Increased Building Construction Speed
-6x Increased Shield Regeneration
+7x Increased Shield Regeneration
 1x Infernal Plating (Hellion)
 1x Infestor
 1x Integrated Power (Mothership)
@@ -84,6 +84,7 @@ CURRENT INVENTORY
 1x Vicious Glaive (Mutalisk)
 1x War Pigs
 1x Wild Mutation (Kerrigan Ability)
+1x Wrathwalker
 1x Zergling
 
 ITEM RECEIPT HISTORY
@@ -205,6 +206,8 @@ ITEM RECEIPT HISTORY
 115. Ionic Wavelength Flux (Phoenix/Mirage/Skirmisher)
 116. Progressive Protoss Ground Weapon
 117. Bosonic Core (Oracle)
+118. Increased Shield Regeneration
+119. Wrathwalker
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -275,6 +278,8 @@ COMPLETED LOCATION CHECKS
 - Lab Rat (Zerg): Victory Cache (2)
 - Lab Rat (Zerg): West Zergling Group
 - Old Soldiers (Terran): Entrance Gate
+- Old Soldiers (Terran): Get Nuked
+- Old Soldiers (Terran): South Expansion
 - Outbreak (Protoss): Left Infestor
 - Outbreak (Protoss): North Bar
 - Outbreak (Protoss): North Infested Command Center
