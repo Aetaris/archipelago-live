@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T06:29:47.154Z
+Report generated: 2026-10-23T06:36:56.104Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 126 / 1782
-Received items: 126
+Checks: 127 / 1782
+Received items: 127
 
 CURRENT INVENTORY
 -----------------
@@ -43,7 +43,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 8x Increased Building Construction Speed
-8x Increased Shield Regeneration
+9x Increased Shield Regeneration
 1x Infernal Plating (Hellion)
 1x Infestor
 1x Integrated Power (Mothership)
@@ -220,6 +220,7 @@ ITEM RECEIPT HISTORY
 124. Additional Starting Minerals
 125. Increased Shield Regeneration
 126. Catalytic Boosters (Bullfrog)
+127. Increased Shield Regeneration
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -251,6 +252,7 @@ COMPLETED LOCATION CHECKS
 - Domination (Zerg): Win Without 100 Eggs
 - Echoes of the Future (Protoss): Base
 - Echoes of the Future (Protoss): Close Obelisk
+- Echoes of the Future (Protoss): Northwest Tendril
 - Echoes of the Future (Protoss): Southwest Tendril
 - Echoes of the Future (Protoss): West Obelisk
 - Evacuation (Protoss): East Chrysalis
