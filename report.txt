@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-23T06:22:50.445Z
+Report generated: 2026-10-23T06:29:47.154Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 125 / 1782
-Received items: 125
+Checks: 126 / 1782
+Received items: 126
 
 CURRENT INVENTORY
 -----------------
@@ -25,6 +25,7 @@ CURRENT INVENTORY
 1x Bio Mechanical Repair Drone (Raven)
 1x Bosonic Core (Oracle)
 1x Caladrius
+1x Catalytic Boosters (Bullfrog)
 1x Cerberus Mine (Spider Mine)
 1x Chronoclysm (Pulsar)
 1x Concealment (Widow Mine)
@@ -218,6 +219,7 @@ ITEM RECEIPT HISTORY
 123. Ares-Class Targeting System (Goliath)
 124. Additional Starting Minerals
 125. Increased Shield Regeneration
+126. Catalytic Boosters (Bullfrog)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -250,6 +252,7 @@ COMPLETED LOCATION CHECKS
 - Echoes of the Future (Protoss): Base
 - Echoes of the Future (Protoss): Close Obelisk
 - Echoes of the Future (Protoss): Southwest Tendril
+- Echoes of the Future (Protoss): West Obelisk
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
 - Evacuation (Protoss): Reach Hanson
