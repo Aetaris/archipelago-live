@@ -2,13 +2,13 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-26T21:31:47.057Z
+Report generated: 2026-10-26T21:32:50.731Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 137 / 1782
-Received items: 137
+Checks: 138 / 1782
+Received items: 138
 
 CURRENT INVENTORY
 -----------------
@@ -44,7 +44,7 @@ CURRENT INVENTORY
 1x Hunter-Seeker Weapon (Raven)
 1x Immobilization Wave (Kerrigan Ability)
 8x Increased Building Construction Speed
-9x Increased Shield Regeneration
+10x Increased Shield Regeneration
 1x Infernal Plating (Hellion)
 1x Infestor
 1x Integrated Power (Mothership)
@@ -235,6 +235,7 @@ ITEM RECEIPT HISTORY
 135. Aerial Tracking (Wrathwalker)
 136. Additional Starting Vespene
 137. Additional Starting Minerals
+138. Increased Shield Regeneration
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -243,6 +244,7 @@ COMPLETED LOCATION CHECKS
 - Cutthroat (Zerg): North Relic
 - Cutthroat (Zerg): South Command Center
 - Cutthroat (Zerg): Southwest Relic
+- Cutthroat (Zerg): West Command Center
 - Domination (Terran): Center Infested Command Center
 - Domination (Terran): Close Bunker
 - Domination (Terran): North Bunker
