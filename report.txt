@@ -2,20 +2,20 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-26T21:22:49.953Z
+Report generated: 2026-10-26T21:23:47.833Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 129 / 1782
-Received items: 129
+Checks: 132 / 1782
+Received items: 132
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
-10x Additional Maximum Supply
+11x Additional Maximum Supply
 10x Additional Starting Minerals
-9x Additional Starting Supply
+10x Additional Starting Supply
 9x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x All-Terrain Treads (Siege Tank)
@@ -88,6 +88,7 @@ CURRENT INVENTORY
 1x Tunneling Claws (Roach)
 1x Twin-Linked Flamethrower (Hellion)
 1x Vicious Glaive (Mutalisk)
+1x Vile Strain (Roach)
 1x War Pigs
 1x Wild Mutation (Kerrigan Ability)
 1x Wrathwalker
@@ -224,6 +225,9 @@ ITEM RECEIPT HISTORY
 127. Increased Shield Regeneration
 128. Rapid Fire Launchers (Cyclone)
 129. Additional Starting Supply
+130. Additional Starting Supply
+131. Additional Maximum Supply
+132. Vile Strain (Roach)
 
 COMPLETED LOCATION CHECKS
 -------------------------
@@ -259,6 +263,9 @@ COMPLETED LOCATION CHECKS
 - Echoes of the Future (Protoss): Northwest Tendril
 - Echoes of the Future (Protoss): Southeast Tendril
 - Echoes of the Future (Protoss): Southwest Tendril
+- Echoes of the Future (Protoss): Victory
+- Echoes of the Future (Protoss): Victory Cache (1)
+- Echoes of the Future (Protoss): Victory Cache (2)
 - Echoes of the Future (Protoss): West Obelisk
 - Evacuation (Protoss): East Chrysalis
 - Evacuation (Protoss): North Chrysalis
