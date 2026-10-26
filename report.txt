@@ -2,21 +2,21 @@ ARCHIPELAGO LIVE REPORT
 ======================
 Player: Arcan
 Game: Starcraft 2
-Report generated: 2026-10-26T21:29:46.501Z
+Report generated: 2026-10-26T21:31:47.057Z
 Note: Archipelago tracking data may be cached for approximately 60 seconds.
 
 PROGRESS
 --------
-Checks: 135 / 1782
-Received items: 135
+Checks: 137 / 1782
+Received items: 137
 
 CURRENT INVENTORY
 -----------------
 1x 5 Kerrigan Levels
 12x Additional Maximum Supply
-10x Additional Starting Minerals
+11x Additional Starting Minerals
 10x Additional Starting Supply
-9x Additional Starting Vespene
+10x Additional Starting Vespene
 1x Advanced Targeting Optics (Banshee)
 1x Aerial Tracking (Wrathwalker)
 1x All-Terrain Treads (Siege Tank)
@@ -233,12 +233,16 @@ ITEM RECEIPT HISTORY
 133. Progressive Terran Ship Armor
 134. Additional Maximum Supply
 135. Aerial Tracking (Wrathwalker)
+136. Additional Starting Vespene
+137. Additional Starting Minerals
 
 COMPLETED LOCATION CHECKS
 -------------------------
 - Cutthroat (Zerg): Mid Relic
 - Cutthroat (Zerg): North Command Center
 - Cutthroat (Zerg): North Relic
+- Cutthroat (Zerg): South Command Center
+- Cutthroat (Zerg): Southwest Relic
 - Domination (Terran): Center Infested Command Center
 - Domination (Terran): Close Bunker
 - Domination (Terran): North Bunker
